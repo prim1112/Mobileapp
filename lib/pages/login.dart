@@ -54,7 +54,7 @@ class _LoginPageState extends State<LoginPage> {
                   Padding(
                     padding: EdgeInsets.fromLTRB(20, 20, 50, 0),
                     child: Text(
-                      'หมายเลขโทรศัพท์',
+                      'หมายเลขมือถือ',
                       style: TextStyle(color: Colors.black, fontSize: 18),
                     ),
                   ),
